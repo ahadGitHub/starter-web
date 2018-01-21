@@ -1,3 +1,4 @@
 UnwantedFile.txt
 
 *.dll
+*.log
