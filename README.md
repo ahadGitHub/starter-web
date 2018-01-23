@@ -14,6 +14,8 @@ training demos.
 This is a simple web project, deployment can be done on any web server.
 
 ## How To Contribute
+Please fork this repository and then issue Pull Request
+for review.
 
 ## CopyRight
 @2018 ahad.org
