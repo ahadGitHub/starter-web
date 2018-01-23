@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Ahadu Melesse> -- <Software Engineer> -- <@twittahad>
 
 # THANKS
 
