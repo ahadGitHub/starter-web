@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <Ahadu Melesse> -- <Software Engineer> -- <@twittahad>
+    <Ahadu Melesse> -- <Software Engineer>
+    <@twittahad>
+    <ahadu.melesse@yahoo.com>
 
 # THANKS
 
