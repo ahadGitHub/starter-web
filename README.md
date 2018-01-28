@@ -17,8 +17,8 @@ This is a simple web project, deployment can be done on any web server.
 Added Deployment info.
 
 ## How To Contribute
-Please fork this repository and then issue Pull Request
-for review.
+Please fork this repository and then issue Pull Request for review.
+Once your change is approved, it will be in Prod.
 
 ## CopyRight
 @2018 ahad.org
