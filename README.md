@@ -22,3 +22,4 @@ for review.
 
 ## CopyRight
 @2018 ahad.org
+@copyright
