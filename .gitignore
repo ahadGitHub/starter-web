@@ -2,5 +2,6 @@ UnwantedFile.txt
 
 *.dll
 *.log
+*.orig
 
 /log
