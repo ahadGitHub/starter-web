@@ -25,4 +25,4 @@ Once your change is approved, it will be in Prod.
 ## CopyRight
 @2018 ahad.org
 @copyright
-All rights reserved
+@c.All rights reserved.
